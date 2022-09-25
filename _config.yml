@@ -7,7 +7,7 @@ title: Teodoro's Portfolio
 description: Personal portfolio powered by Jekyll
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
-baseurl: "/neumorphism"
+baseurl: ""
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
@@ -82,7 +82,6 @@ show_contact_card: true
 contact_title: Contact
 # contact_description: This will be displayed under the title.
 contact_description:  React.JS and Ruby-on-Rails Developer passionate about working with programmers and clients to find creative solutions while developing and maintaining meaningful projects. Interested in the intersection of education, nonprofit work, and programming. Experienced in proofreading, debugging code, and managing projects. Always looking to expand my knowledge, learn new technologies, and create innovative work. Check out my <a class="highlight-link" href="https://www.youtube.com/channel/UCWmN0R5sZZJtqhDNDSKXMNg" target="_blank" rel="noreferrer"> Youtube </a> Channel for more videos of me live coding and gaming.
-
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
